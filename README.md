@@ -1,7 +1,9 @@
-This function will add text you have been writed.
+# Text Writer (to txt files) writed with Python.
 
-!ATTENTİON!
+This function will add text you have been writed to a TXT file.
+
+## ATTENTION
 
 You got to write like "TEST TEXT".
 
-Do not forget the "" ;)
+Do not forget the ""(quotes).
